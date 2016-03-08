@@ -525,13 +525,13 @@ box-shadow: 3px -4px 13px 3px rgba(0,0,0,0.75);
  background:url("../images/gold.jpg");
 }
 .pricing-grid1:hover div.price-bg ul li a,.pricing-grid1:hover div.price-value h3 a{
- color:#512884;
+ color:#333;
 }
 .pricing-grid2:hover div.price-bg ul li a,.pricing-grid2:hover div.price-value h3 a{
- color:#fa6e6f;
+ color:#333;
 }
 .pricing-grid3:hover div.price-bg ul li a,.pricing-grid3:hover div.price-value h3 a{
-	color:#04dbdd;
+	color:#333;
 }
 .price-bg {
 	background: #fff;
