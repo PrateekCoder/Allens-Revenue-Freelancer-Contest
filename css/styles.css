@@ -401,8 +401,8 @@ border-radius: 0.7em;
 	margin-right:0;
 }
 .price-value h2 a,.price-value.two h3 a,.price-value.three h4 a{
-	font-size: 1.8em;
-	color:#fff;
+	font-size: 3em;
+	color:#333;
 }
 .price-value,.price-value.two,.price-value.three {
 	background: url("../images/silver1.jpg");
