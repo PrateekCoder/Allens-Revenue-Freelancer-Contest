@@ -283,7 +283,8 @@ ul.social-share li a:hover {
 
 
 #pricing{
-  margin-top: 0px
+  margin-top: 0px;
+  background: url("../images/back.jpg")
 }
 
 
