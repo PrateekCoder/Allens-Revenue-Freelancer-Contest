@@ -276,6 +276,15 @@ ul.social-share li a:hover {
 
 
 
+/*=============================================================================
+                                 3 BOXES SECTION
+===============================================================================*/
+
+#box{
+  border-bottom: 1px solid #333;
+  background: url("../images/back6.jpg");
+}
+
 
 /*=============================================================================
                                PRICING SECTION STYLE
@@ -284,7 +293,7 @@ ul.social-share li a:hover {
 
 #pricing{
   margin-top: 0px;
-  background: url("../images/back2.jpg")
+  background: url("../images/back3.jpg")
 }
 
 
