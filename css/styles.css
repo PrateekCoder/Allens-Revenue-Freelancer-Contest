@@ -405,7 +405,7 @@ border-radius: 0.7em;
 	color:#fff;
 }
 .price-value,.price-value.two,.price-value.three {
-	background: silver;
+	background: url("../images/silver1.jpg");;
 	padding: 2.8em 1.8em 2em;
 	border-bottom:2px solid#ffd500;
 	border-top-left-radius:0.7em;
@@ -421,13 +421,13 @@ border-radius: 0.7em;
 
 /*Gold price list */
 .price-value.two{
-	background:gold;
+	background:url("../images/gold.jpg");
 	border-bottom:2px solid#fd6e70;
 }
 
 /*Diamond price list */
 .price-value.three {
-	background: black;
+	background: url("../images/diamond1.jpg");;
 	border-bottom:2px solid#028f87;
 }
 .price-value ul,.pricing-grid1 ul,.pricing-grid2 ul,.pricing-grid3 ul{
@@ -444,20 +444,20 @@ color: #fbd707;
 font-size: 19px;
 }
 .price-value lable{
-color: #817d94;
+color: gold;
 font-size: 17px;
 }
 .price-value.two h5 span{
 	color:#fe6d72;
 }
 .price-value.two h5 lable{
-	color:#8c8c94;
+	color:#fe6d72;
 }
 .price-value.three h5 span{
-	color: #018f90;
+	color: black;
 }
 .price-value.three h5 lable{
-	color:#9CF7F8;
+	color:black;
 }
 .price-value h5 {
 padding: 11px 0;
