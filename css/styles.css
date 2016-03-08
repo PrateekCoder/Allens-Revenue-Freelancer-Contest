@@ -450,7 +450,7 @@ border-radius: 0.7em;
 
 /*Diamond price list */
 .price-value.three {
-	background: url("../images/diamond3.jpg");
+	background: url("../images/diamond7.jpg");
 	border-bottom:2px solid#028f87;
 }
 .price-value ul,.pricing-grid1 ul,.pricing-grid2 ul,.pricing-grid3 ul{
@@ -541,7 +541,7 @@ box-shadow: 3px -4px 13px 3px rgba(0,0,0,0.75);
 }
 
 .pricing-grid3 ul li.whyt a{
-  background: url("../images/diamond3.jpg");
+  background: url("../images/diamond7.jpg");
 }
 
 .pricing-grid2 ul li.whyt a{
@@ -1261,7 +1261,7 @@ button::-moz-focus-inner {
 ===============================================================================*/
 
 #referal{
-  max-width: 100%;
+  background: #4698F5;
 }
 
 #referal .btn{
