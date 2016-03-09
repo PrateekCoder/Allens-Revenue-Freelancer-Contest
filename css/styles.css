@@ -522,7 +522,7 @@ transform: rotate(40deg);
 box-shadow: 3px -4px 13px 3px rgba(0,0,0,0.75);
 }
 .sale-box.two.sale-box span.on_sale{
-	background: lightgreen;
+	background: #fd6e70;
 }
 .sale-box.three.sale-box span.on_sale{
 	background:#05AEA7;
@@ -592,9 +592,13 @@ border-bottom: 2px solid#04dbdd;
 	outline: none;
 }
 
+#pricingtable .cart1 a{
+	background: silver;
+}
+
 /*Gold offer button */
-.cart2 a{
-	background:gold;
+#pricingtable .cart2 a{
+	background: red;
 }
 /*Diamond offer button */
 .cart3 a{
@@ -1487,7 +1491,7 @@ transform: rotate(40deg);
 box-shadow: 3px -4px 13px 3px rgba(0,0,0,0.75);
 }
 #membershiptable .sale-box.two.sale-box span.on_sale{
-	background: lightgreen;
+	background: #fd6e70;
 }
 #membershiptable .sale-box.three.sale-box span.on_sale{
 	background:#05AEA7;
@@ -1541,7 +1545,7 @@ border-bottom: 2px solid#f96d70;
 .cart3{
 border-bottom: 2px solid#04dbdd;
 }
-.cart1 a,.cart2 a,.cart3 a{
+#membershiptable .cart1 a,.cart2 a,.cart3 a{
 	color: #FFF;
 	font-size: 0.9em;
 	font-weight: 500;
@@ -1558,8 +1562,9 @@ border-bottom: 2px solid#04dbdd;
 }
 
 /*Gold offer button */
-.cart2 a{
-	background:gold;
+
+#membershiptable .cart2 a{
+	background: red;
 }
 /*Diamond offer button */
 .cart3 a{
