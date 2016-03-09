@@ -522,7 +522,7 @@ transform: rotate(40deg);
 box-shadow: 3px -4px 13px 3px rgba(0,0,0,0.75);
 }
 .sale-box.two.sale-box span.on_sale{
-	background: #fa6e6f;
+	background: lightgreen;
 }
 .sale-box.three.sale-box span.on_sale{
 	background:#05AEA7;
@@ -1166,6 +1166,10 @@ button::-moz-focus-inner {
 	.cart1, .cart2, .cart3 {
 	padding: 2em 0em 2em;
 	}
+
+  #pricing{
+    background: #3db2e1;
+  }
 }
 @media(max-width:640px){
 	.pricing-grid1 ul li a, .pricing-grid2 ul li a, .pricing-grid3 ul li a {
@@ -1189,6 +1193,9 @@ button::-moz-focus-inner {
 	float: none;
 	margin: 2em 0 1.5em;
 	}
+  #pricing{
+    background: #3db2e1;
+  }
 }
 @media(max-width:480px){
 	.pricing-grid1, .pricing-grid2, .pricing-grid3 {
@@ -1205,6 +1212,9 @@ button::-moz-focus-inner {
 	.pop_up {
 	border: 7px solid#485460;
 	}
+  #pricing{
+    background: #3db2e1;
+  }
 }
 @media(max-width:320px){
 	.pricing-grid1, .pricing-grid2, .pricing-grid3 {
@@ -1243,6 +1253,9 @@ button::-moz-focus-inner {
 	ul.payment-sendbtns li {
 	margin-top: 1em;
 	}
+  #pricing{
+    background: #3db2e1;
+  }
 
 }
 
@@ -1474,7 +1487,7 @@ transform: rotate(40deg);
 box-shadow: 3px -4px 13px 3px rgba(0,0,0,0.75);
 }
 #membershiptable .sale-box.two.sale-box span.on_sale{
-	background: #fa6e6f;
+	background: lightgreen;
 }
 #membershiptable .sale-box.three.sale-box span.on_sale{
 	background:#05AEA7;
@@ -2118,6 +2131,10 @@ button::-moz-focus-inner {
 	.cart1, .cart2, .cart3 {
 	padding: 2em 0em 2em;
 	}
+
+  #membership{
+    background: lightgray;
+  }
 }
 @media(max-width:640px){
 	.pricing-grid1 ul li a, .pricing-grid2 ul li a, .pricing-grid3 ul li a {
