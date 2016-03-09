@@ -302,7 +302,7 @@ ul.social-share li a:hover {
 
 #pricing{
   margin-top: 0px;
-  background: url("../images/back3.jpg")
+  background: #3db2e1;
 }
 
 
@@ -443,13 +443,13 @@ border-radius: 0.7em;
 }
 
 /*Gold price list */
-.price-value.two{
+#pricing .price-value.two{
 	background:url("../images/gold.jpg");
 	border-bottom:2px solid#fd6e70;
 }
 
 /*Diamond price list */
-.price-value.three {
+#pricing .price-value.three {
 	background: url("../images/diamond7.jpg");
 	border-bottom:2px solid#028f87;
 }
@@ -1254,7 +1254,7 @@ button::-moz-focus-inner {
 
 #membership{
   margin-top: 0px;
-  background: #3db2e1;
+  background: lightgreen;
 }
 
 
